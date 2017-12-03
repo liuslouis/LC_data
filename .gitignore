@@ -1,1 +1,6 @@
 .env/
+loan.csv
+loan_data_cleaned.csv
+.env
+.ipynb_checkpoints
+sess1/
