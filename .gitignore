@@ -4,3 +4,5 @@ loan_data_cleaned.csv
 .env
 .ipynb_checkpoints
 sess1/
+images/
+loans_all.csv
